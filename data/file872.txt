@@ -1,0 +1,8 @@
+bgiven
+integer
+n
+return
+string
+array
+answer
+1indexed

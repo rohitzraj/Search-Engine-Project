@@ -1,0 +1,17 @@
+bgiven
+2d
+array
+characters
+grid
+size
+x
+n
+need
+find
+exists
+cycle
+consisting
+value
+character
+exist
+consist

@@ -1,0 +1,17 @@
+bgiven
+string
+find
+two
+disjoint
+palindromic
+subsequences
+product
+lengths
+maximized
+the
+pick
+character
+index
+subsequence
+length
+maximize

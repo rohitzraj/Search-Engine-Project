@@ -1,0 +1,17 @@
+bgiven
+integer
+array
+arr
+difference
+return
+length
+longest
+subsequence
+arithmetic
+sequence
+adjacent
+elements
+equals
+element
+equal
+long

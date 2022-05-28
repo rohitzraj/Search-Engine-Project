@@ -1,0 +1,7 @@
+bnozero
+integer
+positive
+contain
+0
+decimal
+representation

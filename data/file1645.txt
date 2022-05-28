@@ -1,0 +1,8 @@
+bthe
+width
+sequence
+difference
+maximum
+minimum
+elements
+element

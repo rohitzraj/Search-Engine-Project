@@ -1,0 +1,17 @@
+bgiven
+root
+binary
+search
+tree
+integer
+k
+return
+kth
+smallest
+value
+1indexed
+values
+nodes
+node
+nod
+small

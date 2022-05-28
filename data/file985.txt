@@ -1,0 +1,6 @@
+bgiven
+string
+partition
+every
+substring
+palindrome

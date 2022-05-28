@@ -1,0 +1,7 @@
+bthe
+bitwise
+and
+array
+nums
+integers
+integer

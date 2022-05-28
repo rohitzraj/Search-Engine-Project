@@ -1,0 +1,9 @@
+bon
+alphabet
+board
+start
+position
+0
+corresponding
+characterxc2xa0board
+correspond

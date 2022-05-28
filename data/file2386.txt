@@ -1,0 +1,14 @@
+bin
+gold
+mine
+grid
+size
+x
+n
+cell
+integer
+representing
+amount
+0
+empty
+represent

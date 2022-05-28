@@ -1,0 +1,9 @@
+bgiven
+array
+positive
+integersxc2xa0arr
+calculate
+sum
+possible
+oddlength
+subarrays

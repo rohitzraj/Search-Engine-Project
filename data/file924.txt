@@ -1,0 +1,9 @@
+bgiven
+string
+return
+true
+palindrome
+deleting
+one
+character
+delete

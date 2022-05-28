@@ -1,0 +1,6 @@
+bgiven
+string
+return
+number
+segments
+segment

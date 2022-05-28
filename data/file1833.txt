@@ -1,0 +1,12 @@
+b
+given
+x
+n
+matrix
+board
+cell
+battleship
+empty
+return
+number
+battleships

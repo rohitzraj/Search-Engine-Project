@@ -1,0 +1,12 @@
+bgiven
+n
+x
+binary
+matrix
+image
+flip
+horizontally
+invert
+return
+resulting
+result

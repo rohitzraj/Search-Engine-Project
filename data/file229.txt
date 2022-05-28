@@ -1,0 +1,7 @@
+bgiven
+binary
+array
+nums
+delete
+one
+element

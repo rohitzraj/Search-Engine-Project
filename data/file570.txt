@@ -1,0 +1,17 @@
+bdesign
+data
+structure
+initialized
+list
+different
+words
+provided
+string
+determine
+change
+exactly
+one
+character
+match
+word
+initialize

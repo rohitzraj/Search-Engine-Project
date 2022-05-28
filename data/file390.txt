@@ -1,0 +1,14 @@
+byou
+given
+n
+x
+integer
+matrix
+grid
+value
+j
+represents
+elevation
+point
+give
+represent

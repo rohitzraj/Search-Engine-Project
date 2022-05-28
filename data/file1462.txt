@@ -1,0 +1,12 @@
+byou
+given
+positive
+integer
+num
+consisting
+digits
+6
+9
+digit
+give
+consist

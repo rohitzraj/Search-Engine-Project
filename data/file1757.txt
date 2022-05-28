@@ -1,0 +1,13 @@
+byou
+given
+integer
+array
+nums
+perform
+following
+operation
+number
+times
+time
+give
+follow

@@ -1,0 +1,10 @@
+byou
+given
+array
+integers
+stones
+weight
+ith
+stone
+integer
+give

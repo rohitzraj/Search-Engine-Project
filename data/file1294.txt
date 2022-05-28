@@ -1,0 +1,7 @@
+byou
+given
+array
+integers
+distance
+integer
+give

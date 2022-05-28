@@ -1,0 +1,14 @@
+byou
+given
+array
+points
+xi
+yi
+coordinates
+ith
+point
+2d
+plane
+multiple
+coordinate
+give

@@ -1,0 +1,15 @@
+byou
+given
+2d
+integer
+array
+items
+pricei
+beautyi
+denotes
+price
+beauty
+item
+respectively
+give
+denote

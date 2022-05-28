@@ -1,0 +1,12 @@
+bgiven
+integer
+array
+nums
+return
+length
+longest
+strictly
+increasing
+subsequence
+increase
+long

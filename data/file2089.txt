@@ -1,0 +1,17 @@
+byou
+given
+string
+two
+integers
+x
+you
+perform
+types
+operations
+number
+times
+integer
+type
+operation
+time
+give

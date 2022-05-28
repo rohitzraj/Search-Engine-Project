@@ -1,0 +1,12 @@
+bgiven
+two
+strings
+ransomnote
+magazine
+return
+true
+constructed
+false
+otherwise
+string
+construct

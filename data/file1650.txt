@@ -1,0 +1,8 @@
+bgiven
+array
+integers
+nums
+half
+odd
+even
+integer

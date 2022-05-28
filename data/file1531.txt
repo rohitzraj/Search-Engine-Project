@@ -1,0 +1,10 @@
+b
+a
+square
+triple
+c
+integers
+a2
+b2
+c2
+integer

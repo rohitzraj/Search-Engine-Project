@@ -1,0 +1,15 @@
+byou
+given
+integer
+array
+nums
+in
+one
+move
+pick
+index
+0
+numslength
+increment
+1
+give

@@ -1,0 +1,8 @@
+bgiven
+array
+nums
+size
+n
+return
+majority
+element

@@ -1,0 +1,14 @@
+bgiven
+integer
+n
+return
+true
+possible
+represent
+sum
+distinct
+powers
+three
+otherwise
+false
+power

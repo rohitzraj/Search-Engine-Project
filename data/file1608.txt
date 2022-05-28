@@ -1,0 +1,16 @@
+byou
+given
+integer
+array
+score
+size
+n
+ith
+athlete
+competition
+all
+scores
+guaranteed
+unique
+give
+guarantee

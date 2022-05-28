@@ -1,0 +1,16 @@
+byou
+given
+integer
+num
+rearrange
+digits
+value
+minimized
+contain
+leading
+zeros
+digit
+zero
+give
+minimize
+lead

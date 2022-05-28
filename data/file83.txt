@@ -1,0 +1,12 @@
+bgiven
+x
+n
+binary
+matrix
+mat
+return
+distance
+nearest
+0
+cell
+near

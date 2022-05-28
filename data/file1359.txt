@@ -1,0 +1,16 @@
+byou
+given
+n
+x
+binary
+grid
+board
+in
+move
+swap
+two
+rows
+columns
+row
+column
+give

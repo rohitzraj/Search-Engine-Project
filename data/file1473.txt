@@ -1,0 +1,15 @@
+bgiven
+2n
+balls
+k
+distinct
+colors
+you
+given
+integer
+array
+size
+number
+color
+ball
+give

@@ -1,0 +1,9 @@
+bgiven
+integer
+n
+return
+true
+power
+three
+otherwise
+false

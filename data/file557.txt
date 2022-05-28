@@ -1,0 +1,14 @@
+bgiven
+array
+integers
+nums
+integer
+k
+return
+total
+number
+subarrays
+whose
+sum
+equals
+equal

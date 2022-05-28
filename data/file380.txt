@@ -1,0 +1,16 @@
+bgiven
+list
+accounts
+element
+strings
+first
+0
+name
+rest
+elements
+emails
+representing
+account
+string
+email
+represent

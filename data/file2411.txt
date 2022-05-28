@@ -1,0 +1,7 @@
+bgiven
+axc2xa0squarexc2xa0matrixxc2xa0mat
+return
+sum
+matrix
+diagonals
+diagonal

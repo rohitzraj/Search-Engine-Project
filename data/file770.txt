@@ -1,0 +1,13 @@
+byou
+given
+integer
+array
+digits
+element
+digit
+the
+may
+contain
+duplicates
+duplicate
+give

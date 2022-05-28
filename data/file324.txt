@@ -1,0 +1,9 @@
+ban
+array
+monotonic
+either
+monotone
+increasing
+decreasing
+increase
+decrease

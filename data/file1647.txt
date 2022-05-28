@@ -1,0 +1,12 @@
+bgiven
+integer
+array
+nums
+move
+even
+integers
+beginning
+followed
+odd
+begin
+follow

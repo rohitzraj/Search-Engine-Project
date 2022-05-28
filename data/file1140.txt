@@ -1,0 +1,10 @@
+bgiven
+integer
+array
+arr
+k
+modify
+repeating
+times
+time
+repeat

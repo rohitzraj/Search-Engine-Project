@@ -1,0 +1,9 @@
+byou
+given
+x
+n
+integer
+matrix
+mat
+target
+give

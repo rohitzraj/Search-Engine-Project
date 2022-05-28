@@ -1,0 +1,9 @@
+bgiven
+string
+formula
+representing
+chemical
+return
+count
+atom
+represent

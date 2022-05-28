@@ -1,0 +1,14 @@
+byou
+given
+integer
+mass
+represents
+original
+planet
+you
+array
+asteroids
+ith
+asteroid
+give
+represent

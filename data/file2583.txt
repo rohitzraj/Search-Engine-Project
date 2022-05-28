@@ -1,0 +1,17 @@
+bgiven
+head
+linked
+list
+value
+x
+partition
+nodes
+less
+come
+greater
+equal
+node
+le
+link
+nod
+great

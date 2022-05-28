@@ -1,0 +1,17 @@
+byou
+given
+array
+strings
+words
+each
+element
+consists
+two
+lowercase
+english
+letters
+string
+word
+letter
+give
+consist

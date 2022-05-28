@@ -1,0 +1,15 @@
+bgiven
+root
+binary
+search
+tree
+rearrange
+inorder
+leftmost
+node
+every
+left
+child
+one
+right
+leave

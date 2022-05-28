@@ -1,0 +1,14 @@
+bgiven
+two
+strings
+part
+perform
+following
+operation
+occurrences
+substring
+removed
+string
+occurrence
+follow
+remove

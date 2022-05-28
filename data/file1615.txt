@@ -1,0 +1,10 @@
+bwe
+define
+harmonious
+array
+difference
+maximum
+value
+minimum
+exactly
+1

@@ -1,0 +1,11 @@
+ban
+integer
+monotone
+increasing
+digits
+pair
+adjacent
+x
+satisfy
+digit
+increase

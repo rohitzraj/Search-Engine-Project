@@ -1,0 +1,14 @@
+bgiven
+root
+binary
+tree
+return
+every
+subtree
+given
+containing
+1
+removed
+give
+contain
+remove

@@ -1,0 +1,14 @@
+bgiven
+integer
+array
+nums
+return
+number
+elements
+strictly
+smaller
+greater
+element
+appear
+small
+great

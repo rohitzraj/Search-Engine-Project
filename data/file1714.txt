@@ -1,0 +1,13 @@
+byou
+given
+integer
+array
+nums
+in
+one
+move
+choose
+element
+change
+value
+give

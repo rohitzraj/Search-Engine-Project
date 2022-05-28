@@ -1,0 +1,16 @@
+byou
+given
+integer
+array
+cost
+ith
+step
+staircase
+once
+pay
+either
+climb
+one
+two
+steps
+give

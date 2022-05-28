@@ -1,0 +1,14 @@
+byou
+given
+integer
+array
+target
+you
+initial
+size
+elements
+initially
+zeros
+element
+zero
+give

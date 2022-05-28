@@ -1,0 +1,11 @@
+bgiven
+string
+consisting
+words
+spaces
+return
+length
+last
+word
+space
+consist

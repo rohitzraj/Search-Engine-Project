@@ -1,0 +1,17 @@
+bgiven
+integer
+array
+nums
+val
+remove
+occurrences
+inplace
+the
+relative
+order
+elements
+may
+changed
+occurrence
+element
+change

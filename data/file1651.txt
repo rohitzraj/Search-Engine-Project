@@ -1,0 +1,10 @@
+bgiven
+integer
+array
+arr
+target
+return
+number
+tuples
+j
+k

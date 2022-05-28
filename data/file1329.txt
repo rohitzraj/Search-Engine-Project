@@ -1,0 +1,8 @@
+bgiven
+integer
+num
+return
+string
+base
+7
+representation

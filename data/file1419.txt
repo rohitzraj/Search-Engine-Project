@@ -1,0 +1,13 @@
+bgiven
+array
+points
+xi
+yi
+represents
+point
+xy
+plane
+return
+true
+boomerang
+represent

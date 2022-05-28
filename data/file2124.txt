@@ -1,0 +1,14 @@
+b
+the
+letter
+value
+position
+alphabet
+starting
+0
+ie
+1
+c
+2
+etc
+start

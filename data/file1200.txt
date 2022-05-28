@@ -1,0 +1,16 @@
+byou
+given
+x
+n
+matrix
+grid
+initially
+located
+topleft
+corner
+0
+step
+move
+right
+give
+locate

@@ -1,0 +1,14 @@
+bin
+project
+list
+required
+skills
+reqskills
+people
+the
+ith
+person
+contains
+skill
+require
+contain

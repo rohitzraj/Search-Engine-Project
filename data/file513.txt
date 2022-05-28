@@ -1,0 +1,14 @@
+bgiven
+integer
+array
+nums
+k
+return
+true
+two
+distinct
+indices
+j
+abs
+index
+ab

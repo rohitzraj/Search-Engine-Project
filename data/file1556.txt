@@ -1,0 +1,15 @@
+bgiven
+integer
+num
+return
+three
+consecutive
+integers
+sorted
+array
+sum
+if
+expressed
+empty
+sort
+express

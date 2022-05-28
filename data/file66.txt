@@ -1,0 +1,14 @@
+bgiven
+array
+intervals
+starti
+endi
+return
+minimum
+number
+need
+remove
+make
+rest
+nonoverlapping
+interval

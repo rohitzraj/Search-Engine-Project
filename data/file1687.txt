@@ -1,0 +1,16 @@
+bgiven
+array
+restaurants
+xc2xa0restaurants
+idi
+ratingi
+veganfriendlyi
+pricei
+distancei
+you
+filter
+using
+three
+filters
+restaurant
+use

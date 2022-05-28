@@ -1,0 +1,11 @@
+bgiven
+n
+matrix
+ones
+zeros
+return
+many
+square
+submatrices
+one
+zero

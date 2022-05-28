@@ -1,0 +1,17 @@
+bgiven
+integer
+array
+even
+length
+arr
+return
+true
+possible
+reorder
+2
+1
+every
+0
+len
+false
+otherwise

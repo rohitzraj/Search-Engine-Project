@@ -1,0 +1,14 @@
+bgiven
+2
+integers
+n
+start
+your
+task
+return
+permutation
+pxc2xa0of
+012
+2n
+1
+integer

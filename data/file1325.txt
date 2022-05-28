@@ -1,0 +1,11 @@
+bgiven
+integer
+n
+represented
+string
+return
+smallest
+good
+base
+represent
+small

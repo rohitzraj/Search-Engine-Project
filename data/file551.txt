@@ -1,0 +1,14 @@
+bgiven
+array
+strings
+strs
+return
+length
+longest
+uncommon
+subsequence
+if
+exist
+1
+string
+long

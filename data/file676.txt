@@ -1,0 +1,9 @@
+bgiven
+array
+ofxc2xa0integers
+arr
+initially
+positioned
+first
+index
+position

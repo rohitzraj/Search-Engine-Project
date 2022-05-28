@@ -1,0 +1,12 @@
+byou
+given
+array
+integers
+nums
+perform
+following
+steps
+integer
+step
+give
+follow

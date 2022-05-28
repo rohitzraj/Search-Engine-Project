@@ -1,0 +1,12 @@
+bgiven
+rectangle
+size
+n
+x
+return
+minimum
+number
+integersided
+squares
+tile
+square

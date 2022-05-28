@@ -1,0 +1,13 @@
+byou
+given
+0indexed
+integer
+array
+nums
+consisting
+3
+n
+elements
+element
+give
+consist

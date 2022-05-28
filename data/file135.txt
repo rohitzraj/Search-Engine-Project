@@ -1,0 +1,7 @@
+byou
+given
+string
+length
+n
+either
+give

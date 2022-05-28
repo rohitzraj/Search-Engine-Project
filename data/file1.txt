@@ -1,0 +1,7 @@
+bgiven
+string
+return
+longest
+palindromic
+substring
+long

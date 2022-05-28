@@ -1,0 +1,16 @@
+byou
+given
+two
+integer
+arrays
+nums1
+nums2
+length
+the
+advantage
+respect
+number
+indices
+array
+index
+give

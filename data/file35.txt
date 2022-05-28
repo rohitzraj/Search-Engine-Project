@@ -1,0 +1,11 @@
+byou
+given
+integer
+array
+prices
+price
+stock
+ith
+day
+k
+give

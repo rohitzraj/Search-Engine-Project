@@ -1,0 +1,14 @@
+byou
+given
+binary
+matrix
+size
+x
+n
+allowed
+rearrange
+columns
+order
+column
+give
+allow

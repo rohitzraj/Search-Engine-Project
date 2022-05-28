@@ -1,0 +1,13 @@
+bgiven
+integer
+array
+nums
+return
+sum
+divisors
+integers
+exactly
+four
+if
+0
+divisor

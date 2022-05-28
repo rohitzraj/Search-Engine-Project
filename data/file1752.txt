@@ -1,0 +1,15 @@
+byou
+given
+0indexed
+integer
+array
+nums
+represents
+score
+ith
+student
+you
+also
+k
+give
+represent

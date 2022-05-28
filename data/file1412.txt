@@ -1,0 +1,14 @@
+bgiven
+integer
+n
+return
+number
+positive
+integers
+range
+1
+least
+one
+repeated
+digit
+repeat

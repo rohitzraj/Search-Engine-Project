@@ -1,0 +1,12 @@
+b
+a
+permutation
+array
+integers
+arrangement
+members
+sequence
+linear
+order
+integer
+member

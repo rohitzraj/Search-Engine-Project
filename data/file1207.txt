@@ -1,0 +1,10 @@
+byou
+given
+list
+strings
+length
+words
+string
+target
+word
+give

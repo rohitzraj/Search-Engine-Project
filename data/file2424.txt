@@ -1,0 +1,17 @@
+byou
+given
+x
+n
+matrix
+characters
+box
+representing
+sideview
+each
+cell
+one
+following
+character
+give
+represent
+follow

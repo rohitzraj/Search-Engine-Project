@@ -1,0 +1,11 @@
+bgiven
+integer
+n
+return
+binary
+string
+representing
+representation
+base
+2
+represent

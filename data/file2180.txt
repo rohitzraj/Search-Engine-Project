@@ -1,0 +1,15 @@
+byou
+given
+0indexed
+string
+text
+another
+pattern
+length
+2
+consist
+lowercase
+english
+letters
+letter
+give

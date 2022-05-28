@@ -1,0 +1,13 @@
+bgiven
+integer
+array
+nums
+find
+contiguous
+nonempty
+subarray
+within
+largest
+product
+return
+large

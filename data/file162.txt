@@ -1,0 +1,16 @@
+byou
+convex
+nsided
+polygon
+vertex
+integer
+value
+you
+given
+array
+values
+ith
+ie
+clockwise
+order
+give

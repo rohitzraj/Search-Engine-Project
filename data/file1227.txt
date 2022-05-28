@@ -1,0 +1,15 @@
+byou
+given
+two
+integer
+arrays
+nums
+multipliers
+size
+n
+respectively
+the
+1indexed
+array
+multiplier
+give

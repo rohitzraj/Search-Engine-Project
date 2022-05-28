@@ -1,0 +1,15 @@
+b
+a
+chef
+collected
+data
+satisfaction
+level
+n
+dishes
+cook
+dish
+1
+unit
+time
+collect

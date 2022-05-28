@@ -1,0 +1,6 @@
+bgiven
+array
+integersxc2xa0arr
+replace
+element
+rank

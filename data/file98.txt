@@ -1,0 +1,13 @@
+b
+given
+string
+containing
+three
+types
+characters
+return
+true
+valid
+type
+character
+contain

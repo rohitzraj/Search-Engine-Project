@@ -1,0 +1,9 @@
+bgiven
+head
+linkedxc2xa0list
+rotate
+list
+right
+k
+places
+place

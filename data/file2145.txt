@@ -1,0 +1,17 @@
+byou
+given
+binary
+string
+a
+subsequence
+considered
+good
+empty
+leading
+zeros
+exception
+0
+zero
+give
+consider
+lead

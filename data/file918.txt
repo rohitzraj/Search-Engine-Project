@@ -1,0 +1,8 @@
+bin
+world
+dota2
+two
+parties
+radiant
+dire
+party

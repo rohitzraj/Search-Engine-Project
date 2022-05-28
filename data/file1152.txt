@@ -1,0 +1,16 @@
+bthere
+n
+piles
+coins
+table
+each
+pile
+consists
+positive
+number
+assorted
+denominations
+coin
+denomination
+consist
+assort

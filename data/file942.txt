@@ -1,0 +1,7 @@
+bgiven
+string
+rearrange
+characters
+two
+adjacent
+character

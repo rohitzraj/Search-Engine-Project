@@ -1,0 +1,17 @@
+bgiven
+integer
+array
+nums
+return
+number
+triplets
+chosen
+make
+triangles
+take
+side
+lengths
+triangle
+triplet
+length
+choose

@@ -1,0 +1,14 @@
+bsuppose
+andy
+doris
+want
+choose
+restaurant
+dinner
+list
+favorite
+restaurants
+represented
+strings
+string
+represent

@@ -1,0 +1,11 @@
+byou
+given
+string
+number
+representing
+positive
+integer
+character
+digit
+give
+represent

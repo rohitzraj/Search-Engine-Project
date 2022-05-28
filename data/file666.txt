@@ -1,0 +1,14 @@
+bgiven
+array
+nums
+distinct
+positive
+integers
+return
+number
+tuples
+b
+c
+elements
+integer
+element

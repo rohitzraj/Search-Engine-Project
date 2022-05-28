@@ -1,0 +1,15 @@
+bgiven
+array
+integers
+arr
+return
+true
+partition
+three
+nonempty
+parts
+equal
+sums
+integer
+part
+sum

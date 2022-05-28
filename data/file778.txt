@@ -1,0 +1,16 @@
+byou
+given
+integer
+array
+nums
+a
+number
+x
+lonely
+appears
+adjacent
+numbers
+ie
+1
+appear
+give

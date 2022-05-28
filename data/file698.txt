@@ -1,0 +1,13 @@
+bgiven
+binary
+string
+integer
+k
+return
+true
+every
+code
+length
+substring
+otherwise
+false

@@ -1,0 +1,10 @@
+bthe
+factorial
+positive
+integer
+n
+product
+integers
+less
+equal
+le

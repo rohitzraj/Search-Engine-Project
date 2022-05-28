@@ -1,0 +1,17 @@
+bgiven
+positive
+integer
+n
+return
+number
+integers
+range
+0
+whose
+binary
+representations
+contain
+consecutive
+ones
+representation
+one

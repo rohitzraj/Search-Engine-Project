@@ -1,0 +1,13 @@
+bgiven
+integer
+n
+return
+count
+numbers
+unique
+digits
+x
+0
+10n
+number
+digit

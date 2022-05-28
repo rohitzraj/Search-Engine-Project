@@ -1,0 +1,16 @@
+bgiven
+array
+nums
+integer
+target
+return
+maximum
+number
+nonempty
+nonoverlapping
+subarrays
+sum
+values
+subarray
+equal
+value

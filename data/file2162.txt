@@ -1,0 +1,8 @@
+byou
+given
+string
+integer
+k
+letter
+repetition
+give

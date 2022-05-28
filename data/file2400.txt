@@ -1,0 +1,15 @@
+bgiven
+x
+n
+matrix
+grid
+sorted
+nonincreasing
+order
+rowwise
+columnwise
+return
+number
+negative
+numbers
+sort

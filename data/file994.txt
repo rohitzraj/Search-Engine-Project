@@ -1,0 +1,15 @@
+bgiven
+integer
+n
+count
+total
+number
+digit
+1
+appearing
+nonnegative
+integers
+less
+equal
+le
+appear

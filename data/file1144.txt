@@ -1,0 +1,15 @@
+bgiven
+integer
+n
+task
+count
+many
+strings
+length
+formed
+following
+rules
+string
+rule
+form
+follow

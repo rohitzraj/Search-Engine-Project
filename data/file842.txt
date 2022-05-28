@@ -1,0 +1,13 @@
+bgiven
+x
+n
+boardxc2xa0of
+characters
+list
+strings
+words
+return
+board
+character
+string
+word

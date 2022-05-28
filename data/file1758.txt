@@ -1,0 +1,17 @@
+bthere
+n
+seats
+students
+room
+you
+given
+array
+length
+position
+ith
+seat
+also
+j
+jth
+student
+give

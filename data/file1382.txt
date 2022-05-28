@@ -1,0 +1,14 @@
+bgiven
+radius
+position
+center
+circle
+implement
+function
+randpoint
+generates
+uniform
+random
+point
+inside
+generate

@@ -1,0 +1,11 @@
+byou
+standing
+position
+0
+infinite
+number
+line
+there
+destination
+target
+stand

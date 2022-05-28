@@ -1,0 +1,15 @@
+bgiven
+arrayxc2xa0of
+intervalsxc2xa0where
+intervals
+starti
+endi
+merge
+overlapping
+return
+array
+nonoverlapping
+cover
+input
+interval
+overlap

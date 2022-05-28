@@ -1,0 +1,9 @@
+bgiven
+integer
+array
+nums
+return
+number
+arithmetic
+subsequences
+subsequence

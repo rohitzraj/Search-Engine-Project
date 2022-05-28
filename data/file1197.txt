@@ -1,0 +1,13 @@
+bgiven
+array
+integers
+nums
+find
+maximum
+length
+subarray
+product
+elements
+positive
+integer
+element

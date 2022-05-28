@@ -1,0 +1,17 @@
+b
+two
+strings
+word1
+word2
+considered
+almost
+equivalent
+differences
+frequencies
+letter
+z
+3
+string
+difference
+frequency
+consider

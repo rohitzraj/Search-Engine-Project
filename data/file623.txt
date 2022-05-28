@@ -1,0 +1,10 @@
+bgiven
+wordlist
+want
+implement
+spellchecker
+converts
+query
+word
+correct
+convert

@@ -1,0 +1,17 @@
+byou
+given
+three
+integers
+n
+k
+consider
+following
+algorithm
+find
+maximum
+element
+array
+positive
+integer
+give
+follow

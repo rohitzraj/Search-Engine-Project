@@ -1,0 +1,12 @@
+b
+given
+x
+n
+integer
+matrix
+element
+0
+set
+entire
+row
+column

@@ -1,0 +1,16 @@
+b
+given
+string
+containing
+characters
+find
+length
+longest
+valid
+wellformed
+parentheses
+substring
+character
+parenthesis
+contain
+long

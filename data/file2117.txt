@@ -1,0 +1,8 @@
+byou
+given
+string
+consists
+digits
+digit
+give
+consist

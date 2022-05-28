@@ -1,0 +1,14 @@
+bgiven
+string
+integer
+k
+return
+length
+longest
+substring
+frequency
+character
+greater
+equal
+long
+great

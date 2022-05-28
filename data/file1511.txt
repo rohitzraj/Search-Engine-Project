@@ -1,0 +1,12 @@
+byou
+given
+coordinates
+string
+represents
+square
+chessboard
+below
+reference
+coordinate
+give
+represent

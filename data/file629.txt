@@ -1,0 +1,9 @@
+bgiven
+integer
+array
+nums
+k
+return
+number
+good
+subarrays

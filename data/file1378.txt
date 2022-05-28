@@ -1,0 +1,7 @@
+b
+a
+positive
+integer
+magical
+divisible
+either

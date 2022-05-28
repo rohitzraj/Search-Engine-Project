@@ -1,0 +1,14 @@
+b
+given
+integer
+n
+return
+array
+ans
+length
+1
+0
+number
+binary
+representation
+an

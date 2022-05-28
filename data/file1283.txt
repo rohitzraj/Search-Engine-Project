@@ -1,0 +1,10 @@
+bgiven
+integer
+num
+repeatedly
+add
+digits
+result
+one
+digit
+return

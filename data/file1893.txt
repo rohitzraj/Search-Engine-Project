@@ -1,0 +1,17 @@
+bwe
+want
+split
+group
+n
+people
+labeled
+1
+two
+groups
+size
+each
+person
+may
+dislike
+go
+label

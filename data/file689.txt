@@ -1,0 +1,14 @@
+bgiven
+string
+integer
+k
+return
+true
+use
+characters
+construct
+palindrome
+strings
+false
+otherwise
+character

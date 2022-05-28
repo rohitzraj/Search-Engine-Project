@@ -1,0 +1,14 @@
+bgiven
+three
+integers
+x
+bound
+return
+list
+powerful
+value
+less
+equal
+integer
+le
+bind

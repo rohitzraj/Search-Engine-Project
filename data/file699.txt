@@ -1,0 +1,13 @@
+bgiven
+array
+favoritecompanies
+list
+favorites
+companies
+ith
+person
+indexed
+0
+favorite
+company
+index

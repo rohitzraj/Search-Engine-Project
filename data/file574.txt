@@ -1,0 +1,15 @@
+bgiven
+nonempty
+array
+nonnegative
+integers
+nums
+degree
+defined
+maximum
+frequency
+one
+elements
+integer
+element
+define

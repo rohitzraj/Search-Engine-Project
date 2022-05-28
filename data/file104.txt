@@ -1,0 +1,14 @@
+byou
+given
+array
+prices
+price
+stock
+ith
+day
+integer
+fee
+representing
+transaction
+give
+represent

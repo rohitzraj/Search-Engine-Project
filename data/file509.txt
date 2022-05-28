@@ -1,0 +1,6 @@
+bwrite
+algorithm
+determine
+number
+n
+happy

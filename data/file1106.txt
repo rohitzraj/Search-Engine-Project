@@ -1,0 +1,10 @@
+bgiven
+integer
+array
+arr
+return
+length
+maximum
+size
+turbulent
+subarray

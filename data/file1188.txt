@@ -1,0 +1,10 @@
+bgiven
+array
+integers
+arr
+return
+number
+subarrays
+odd
+sum
+integer

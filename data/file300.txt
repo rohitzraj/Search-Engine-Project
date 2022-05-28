@@ -1,0 +1,14 @@
+bthere
+group
+n
+people
+labeled
+0
+1
+person
+different
+amount
+money
+level
+quietness
+label

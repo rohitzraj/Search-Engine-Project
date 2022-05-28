@@ -1,0 +1,16 @@
+b
+given
+binary
+string
+return
+true
+longest
+contiguous
+segment
+1
+strictly
+longer
+0
+false
+otherwise
+long

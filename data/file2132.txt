@@ -1,0 +1,12 @@
+b
+a
+wonderful
+string
+one
+letter
+appears
+odd
+number
+times
+time
+appear

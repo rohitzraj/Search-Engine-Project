@@ -1,0 +1,12 @@
+bgiven
+string
+licenseplate
+array
+strings
+words
+find
+shortest
+completing
+word
+complete
+short

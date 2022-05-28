@@ -1,0 +1,9 @@
+bgiven
+x
+n
+matrix
+returnxc2xa0truexc2xa0if
+toeplitz
+otherwise
+return
+false

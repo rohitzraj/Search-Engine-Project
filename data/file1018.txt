@@ -1,0 +1,12 @@
+bgiven
+array
+nums
+consists
+nonnegative
+integers
+integer
+split
+nonempty
+continuous
+subarrays
+consist

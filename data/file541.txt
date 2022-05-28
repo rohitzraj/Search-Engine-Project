@@ -1,0 +1,10 @@
+bgiven
+array
+nums
+n
+integers
+range
+1
+return
+appear
+integer

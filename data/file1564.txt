@@ -1,0 +1,11 @@
+byou
+given
+0indexed
+integer
+array
+nums
+digit
+0
+9
+inclusive
+give

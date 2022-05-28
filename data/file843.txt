@@ -1,0 +1,12 @@
+byou
+given
+string
+you
+convert
+palindrome
+adding
+characters
+front
+character
+give
+add

@@ -1,0 +1,15 @@
+bgiven
+n
+x
+integer
+matrix
+grid
+return
+minimum
+sum
+falling
+path
+nonzero
+shifts
+shift
+fall

@@ -1,0 +1,12 @@
+bthe
+xor
+sum
+list
+bitwise
+elements
+if
+contains
+one
+element
+equal
+contain

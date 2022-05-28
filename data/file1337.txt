@@ -1,0 +1,12 @@
+byou
+given
+array
+trees
+xi
+yi
+represents
+location
+tree
+garden
+give
+represent

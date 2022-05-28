@@ -1,0 +1,16 @@
+bgiven
+array
+integers
+preorder
+represents
+traversal
+bst
+ie
+binary
+search
+tree
+construct
+return
+root
+integer
+represent

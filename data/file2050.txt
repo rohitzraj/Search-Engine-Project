@@ -1,0 +1,13 @@
+bgiven
+string
+return
+lexicographically
+smallest
+subsequence
+contains
+distinct
+characters
+exactly
+character
+contain
+small

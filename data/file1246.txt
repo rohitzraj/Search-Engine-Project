@@ -1,0 +1,16 @@
+byou
+given
+x
+n
+integer
+matrix
+points
+0indexed
+starting
+0
+want
+maximize
+number
+get
+point
+give

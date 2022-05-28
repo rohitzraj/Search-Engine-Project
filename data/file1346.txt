@@ -1,0 +1,15 @@
+bnearly
+everyone
+used
+multiplication
+table
+the
+size
+x
+n
+integer
+matrix
+mat
+j
+1indexed
+use

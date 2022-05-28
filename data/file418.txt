@@ -1,0 +1,15 @@
+byou
+given
+x
+n
+binary
+matrix
+grid
+0
+represents
+sea
+cell
+1
+land
+give
+represent

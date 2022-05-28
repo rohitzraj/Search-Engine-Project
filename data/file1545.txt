@@ -1,0 +1,12 @@
+ban
+integer
+x
+numerically
+balanced
+every
+digit
+number
+exactly
+occurrences
+occurrence
+balance

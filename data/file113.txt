@@ -1,0 +1,16 @@
+byou
+two
+types
+tiles
+2
+x
+1
+domino
+shape
+tromino
+you
+may
+rotate
+shapes
+type
+tile

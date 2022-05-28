@@ -1,0 +1,13 @@
+b
+given
+string
+word
+return
+sum
+number
+vowels
+e
+u
+every
+substring
+vowel

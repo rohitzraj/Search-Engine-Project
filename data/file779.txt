@@ -1,0 +1,16 @@
+byou
+given
+array
+integers
+nums
+you
+also
+integer
+original
+first
+number
+needs
+searched
+need
+give
+search

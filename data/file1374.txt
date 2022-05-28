@@ -1,0 +1,11 @@
+bgiven
+integer
+n
+return
+smallest
+prime
+palindrome
+greater
+equal
+small
+great

@@ -1,0 +1,14 @@
+breturn
+nonnegative
+integers
+length
+n
+absolute
+difference
+every
+two
+consecutive
+digits
+k
+integer
+digit

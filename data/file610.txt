@@ -1,0 +1,10 @@
+bdesign
+stacklike
+data
+structure
+push
+elements
+stack
+pop
+frequent
+element

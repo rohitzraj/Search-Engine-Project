@@ -1,0 +1,11 @@
+bwe
+given
+array
+asteroids
+integers
+representing
+row
+asteroid
+integer
+give
+represent

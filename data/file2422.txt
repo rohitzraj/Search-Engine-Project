@@ -1,0 +1,16 @@
+byou
+given
+2d
+matrix
+size
+x
+n
+consisting
+nonnegative
+integers
+you
+also
+integer
+k
+give
+consist

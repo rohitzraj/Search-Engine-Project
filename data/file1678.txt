@@ -1,0 +1,15 @@
+bgiven
+array
+distinct
+integers
+arr
+find
+pairs
+elements
+minimum
+absolute
+difference
+two
+integer
+pair
+element

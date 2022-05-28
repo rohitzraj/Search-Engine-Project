@@ -1,0 +1,17 @@
+balice
+n
+candies
+ith
+candy
+type
+candytype
+alice
+noticed
+started
+gain
+weight
+visited
+doctor
+notice
+start
+visit

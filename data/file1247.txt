@@ -1,0 +1,13 @@
+b
+there
+survey
+consists
+n
+questions
+question
+answer
+either
+0
+1
+yes
+consist

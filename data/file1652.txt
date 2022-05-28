@@ -1,0 +1,13 @@
+byou
+given
+array
+logs
+each
+log
+spacedelimited
+string
+words
+first
+word
+identifier
+give

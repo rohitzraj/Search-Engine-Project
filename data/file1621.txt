@@ -1,0 +1,9 @@
+byou
+given
+array
+n
+pairs
+lefti
+righti
+pair
+give

@@ -1,0 +1,10 @@
+bthe
+beauty
+string
+difference
+frequencies
+frequent
+least
+characters
+frequency
+character

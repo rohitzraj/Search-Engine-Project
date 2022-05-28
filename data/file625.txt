@@ -1,0 +1,11 @@
+bgiven
+integer
+array
+nums
+k
+return
+number
+nonempty
+subarrays
+sum
+divisible

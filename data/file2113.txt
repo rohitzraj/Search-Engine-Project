@@ -1,0 +1,15 @@
+byou
+given
+0indexed
+string
+lowercase
+english
+letters
+even
+indices
+digits
+odd
+letter
+index
+digit
+give

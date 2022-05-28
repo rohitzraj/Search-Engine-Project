@@ -1,0 +1,12 @@
+bon
+infinite
+plane
+robot
+initially
+stands
+0
+faces
+north
+note
+stand
+face

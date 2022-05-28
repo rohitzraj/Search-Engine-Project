@@ -1,0 +1,14 @@
+bgiven
+two
+strings
+goal
+return
+true
+swap
+letters
+result
+equal
+otherwise
+false
+string
+letter

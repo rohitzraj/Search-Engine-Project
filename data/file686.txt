@@ -1,0 +1,17 @@
+bin
+special
+ranking
+system
+voter
+gives
+rank
+highest
+lowest
+teams
+participated
+competition
+give
+team
+participate
+high
+low

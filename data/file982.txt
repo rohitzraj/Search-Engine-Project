@@ -1,0 +1,9 @@
+byou
+given
+array
+prices
+price
+stock
+ith
+day
+give

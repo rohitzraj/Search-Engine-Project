@@ -1,0 +1,16 @@
+byou
+given
+rectangular
+cake
+size
+h
+x
+w
+two
+arrays
+integers
+horizontalcuts
+verticalcuts
+array
+integer
+give

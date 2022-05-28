@@ -1,0 +1,12 @@
+bgiven
+integer
+n
+return
+true
+exactly
+three
+positive
+divisors
+otherwise
+false
+divisor

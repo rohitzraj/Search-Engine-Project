@@ -1,0 +1,13 @@
+bwe
+given
+n
+different
+types
+stickers
+each
+sticker
+lowercase
+english
+word
+type
+give

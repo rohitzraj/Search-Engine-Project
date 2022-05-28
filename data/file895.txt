@@ -1,0 +1,14 @@
+bwe
+define
+usage
+capitals
+word
+right
+one
+following
+cases
+holds
+capital
+case
+hold
+follow

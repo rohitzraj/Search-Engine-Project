@@ -1,0 +1,16 @@
+byou
+given
+integer
+array
+nums
+length
+n
+numslots
+2
+there
+slots
+numbered
+1
+slot
+give
+number

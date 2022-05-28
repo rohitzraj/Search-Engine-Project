@@ -1,0 +1,15 @@
+bgiven
+integer
+num
+find
+closest
+two
+integers
+absolute
+difference
+whose
+product
+equalsxc2xa0num
+1xc2xa0or
+2
+close

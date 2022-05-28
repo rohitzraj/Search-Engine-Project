@@ -1,0 +1,10 @@
+bgiven
+head
+linked
+list
+remove
+nth
+node
+end
+return
+link

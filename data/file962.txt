@@ -1,0 +1,11 @@
+bgiven
+array
+nonnegative
+integers
+nums
+initially
+positioned
+first
+index
+integer
+position

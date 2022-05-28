@@ -1,0 +1,6 @@
+bgiven
+root
+binary
+tree
+invert
+return

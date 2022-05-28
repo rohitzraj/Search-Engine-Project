@@ -1,0 +1,15 @@
+bgiven
+integer
+n
+must
+transform
+0
+using
+following
+operations
+number
+times
+operation
+time
+use
+follow

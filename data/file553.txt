@@ -1,0 +1,13 @@
+bgiven
+binary
+array
+nums
+return
+maximum
+length
+contiguous
+subarray
+equal
+number
+0
+1

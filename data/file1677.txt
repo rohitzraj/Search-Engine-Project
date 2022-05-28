@@ -1,0 +1,15 @@
+blet
+function
+f
+frequency
+lexicographically
+smallest
+character
+nonempty
+string
+for
+example
+dcce
+2
+c
+small

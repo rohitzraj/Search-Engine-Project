@@ -1,0 +1,9 @@
+bgiven
+string
+partition
+every
+substring
+palindrome
+return
+possible
+partitioning

@@ -1,0 +1,17 @@
+bgiven
+array
+digit
+strings
+nums
+string
+target
+return
+number
+pairs
+indices
+j
+concatenation
+equals
+pair
+index
+equal

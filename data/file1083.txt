@@ -1,0 +1,7 @@
+b
+a
+sequence
+x1
+x2
+xn
+fibonaccilike

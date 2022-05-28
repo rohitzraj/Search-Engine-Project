@@ -1,0 +1,15 @@
+byou
+given
+n
+x
+grid
+place
+1
+cubes
+axisaligned
+z
+axes
+cube
+ax
+give
+cub

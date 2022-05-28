@@ -1,0 +1,17 @@
+bthere
+integer
+array
+nums
+consists
+n
+unique
+elements
+forgotten
+however
+remember
+every
+pair
+adjacent
+element
+consist
+forget

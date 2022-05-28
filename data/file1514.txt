@@ -1,0 +1,17 @@
+byou
+given
+positive
+integer
+primefactors
+you
+asked
+construct
+n
+satisfies
+following
+conditions
+condition
+give
+ask
+satisfy
+follow

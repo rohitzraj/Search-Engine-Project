@@ -1,0 +1,16 @@
+byou
+given
+two
+identical
+eggs
+access
+building
+n
+floors
+labeled
+1
+egg
+floor
+give
+build
+label

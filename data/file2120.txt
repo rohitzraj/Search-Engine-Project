@@ -1,0 +1,14 @@
+bgiven
+binary
+string
+return
+minimum
+number
+character
+swaps
+make
+alternating
+1
+impossible
+swap
+alternate

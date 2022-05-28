@@ -1,0 +1,13 @@
+byou
+given
+0indexed
+binary
+string
+floor
+represents
+colors
+tiles
+color
+tile
+give
+represent

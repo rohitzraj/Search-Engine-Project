@@ -1,0 +1,9 @@
+b
+let
+say
+positive
+integer
+superpalindrome
+palindrome
+also
+square

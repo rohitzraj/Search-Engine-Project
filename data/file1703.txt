@@ -1,0 +1,14 @@
+bgiven
+2d
+integer
+array
+nums
+return
+elements
+diagonal
+order
+shown
+images
+element
+image
+show

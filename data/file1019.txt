@@ -1,0 +1,15 @@
+ban
+integer
+array
+called
+arithmetic
+consists
+least
+three
+elements
+difference
+two
+consecutive
+element
+call
+consist

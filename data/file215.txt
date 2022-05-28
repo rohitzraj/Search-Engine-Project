@@ -1,0 +1,11 @@
+bgiven
+strings
+s1
+s2
+size
+n
+string
+evil
+return
+number
+good

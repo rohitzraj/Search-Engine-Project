@@ -1,0 +1,10 @@
+bgiven
+two
+arrays
+arr1
+arr2
+elements
+distinct
+also
+array
+element

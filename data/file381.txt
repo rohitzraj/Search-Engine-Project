@@ -1,0 +1,12 @@
+ban
+image
+represented
+x
+n
+integer
+grid
+j
+represents
+pixel
+value
+represent

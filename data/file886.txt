@@ -1,0 +1,12 @@
+bgiven
+string
+queryip
+return
+ipv4
+ip
+valid
+address
+ipv6
+neither
+correct
+type

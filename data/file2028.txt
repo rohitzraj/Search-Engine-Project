@@ -1,0 +1,13 @@
+b
+a
+car
+travels
+starting
+position
+destination
+target
+miles
+east
+travel
+mile
+start

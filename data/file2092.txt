@@ -1,0 +1,14 @@
+byou
+given
+string
+time
+form
+hh
+mm
+digits
+hidden
+represented
+digit
+give
+hide
+represent

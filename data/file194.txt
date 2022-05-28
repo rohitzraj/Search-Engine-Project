@@ -1,0 +1,14 @@
+bgiven
+n
+cuboids
+dimensions
+ith
+cuboid
+widthi
+lengthi
+heighti
+0indexed
+choose
+subset
+place
+dimension

@@ -1,0 +1,15 @@
+byou
+infinite
+number
+stacks
+arranged
+row
+numbered
+left
+right
+0
+maximum
+capacity
+stack
+arrange
+leave

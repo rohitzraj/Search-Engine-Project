@@ -1,0 +1,13 @@
+bthe
+arrayform
+integer
+num
+array
+representing
+digits
+left
+right
+order
+digit
+represent
+leave

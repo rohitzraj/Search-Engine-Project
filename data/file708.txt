@@ -1,0 +1,7 @@
+bgiven
+two
+stringsxc2xa0sxc2xa0andxc2xa0t
+goal
+convertxc2xa0sxc2xa0intoxc2xa0txc2xa0inxc2xa0kxc2xa0moves
+less
+le

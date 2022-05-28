@@ -1,0 +1,9 @@
+bgiven
+integer
+num
+return
+number
+steps
+reduce
+zero
+step

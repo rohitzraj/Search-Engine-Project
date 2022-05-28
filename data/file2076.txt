@@ -1,0 +1,16 @@
+byou
+given
+string
+even
+length
+consisting
+digits
+0
+9
+two
+integers
+b
+digit
+integer
+give
+consist

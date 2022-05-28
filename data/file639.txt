@@ -1,0 +1,6 @@
+bin
+warehouse
+row
+barcodes
+ith
+barcode

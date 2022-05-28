@@ -1,0 +1,16 @@
+bgiven
+string
+dictionary
+strings
+worddict
+add
+spaces
+construct
+sentence
+word
+valid
+return
+possible
+sentences
+order
+space

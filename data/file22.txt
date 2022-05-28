@@ -1,0 +1,8 @@
+b
+given
+integer
+numrows
+return
+first
+pascal
+triangle

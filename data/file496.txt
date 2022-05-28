@@ -1,0 +1,14 @@
+bgiven
+unsorted
+array
+integers
+nums
+return
+length
+longest
+consecutive
+elements
+sequence
+integer
+element
+long

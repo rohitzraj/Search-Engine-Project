@@ -1,0 +1,16 @@
+bsuppose
+file
+system
+stores
+files
+directories
+an
+example
+one
+represented
+following
+picture
+store
+directory
+represent
+follow

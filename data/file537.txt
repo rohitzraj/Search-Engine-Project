@@ -1,0 +1,13 @@
+b
+a
+gene
+string
+represented
+8character
+long
+choices
+c
+g
+t
+choice
+represent

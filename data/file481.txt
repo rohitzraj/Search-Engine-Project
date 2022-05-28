@@ -1,0 +1,13 @@
+bgiven
+array
+integers
+numsxc2xa0and
+integer
+target
+return
+indices
+two
+numbers
+add
+index
+number

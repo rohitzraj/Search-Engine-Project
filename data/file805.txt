@@ -1,0 +1,12 @@
+bgiven
+n
+pairs
+parentheses
+write
+function
+generate
+combinations
+wellformed
+pair
+parenthesis
+combination

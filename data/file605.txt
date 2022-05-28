@@ -1,0 +1,14 @@
+b
+a
+sentence
+string
+singlespace
+separated
+words
+word
+consists
+lowercase
+letters
+letter
+separate
+consist

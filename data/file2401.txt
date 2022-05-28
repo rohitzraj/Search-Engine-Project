@@ -1,0 +1,14 @@
+bgiven
+x
+n
+grid
+each
+cell
+sign
+pointing
+next
+visit
+currently
+the
+j
+point

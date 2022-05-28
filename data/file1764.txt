@@ -1,0 +1,9 @@
+byou
+given
+0indexed
+integer
+array
+nums
+target
+element
+give

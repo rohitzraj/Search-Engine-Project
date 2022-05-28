@@ -1,0 +1,9 @@
+b
+a
+selfdividing
+number
+divisible
+every
+digit
+contains
+contain

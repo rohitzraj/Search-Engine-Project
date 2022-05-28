@@ -1,0 +1,16 @@
+byou
+given
+string
+integer
+k
+you
+choose
+character
+change
+uppercase
+english
+perform
+operation
+times
+time
+give

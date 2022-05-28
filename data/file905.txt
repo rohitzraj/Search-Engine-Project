@@ -1,0 +1,14 @@
+bgiven
+string
+reverse
+order
+characters
+word
+within
+sentence
+still
+preserving
+whitespace
+initial
+character
+preserve

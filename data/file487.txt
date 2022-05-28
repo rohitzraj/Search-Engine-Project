@@ -1,0 +1,17 @@
+bdetermine
+axc2xa09
+x
+9
+sudoku
+boardxc2xa0is
+validxc2xa0only
+filled
+cells
+need
+validatedxc2xa0according
+following
+rules
+cell
+rule
+fill
+follow

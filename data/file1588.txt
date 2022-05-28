@@ -1,0 +1,16 @@
+b
+given
+array
+integers
+citations
+number
+researcher
+received
+ith
+paper
+return
+compute
+hindex
+integer
+citation
+receive

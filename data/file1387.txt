@@ -1,0 +1,14 @@
+byou
+given
+string
+integer
+k
+you
+choose
+one
+first
+letters
+append
+end
+letter
+give

@@ -1,0 +1,16 @@
+bgiven
+integer
+array
+nums
+k
+return
+true
+possible
+divide
+nonempty
+subsets
+whose
+sums
+equal
+subset
+sum

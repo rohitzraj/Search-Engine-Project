@@ -1,0 +1,13 @@
+bgiven
+integer
+array
+nums
+k
+find
+three
+nonoverlapping
+subarrays
+length
+maximum
+sum
+return

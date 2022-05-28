@@ -1,0 +1,6 @@
+bgiven
+string
+reverse
+vowels
+return
+vowel

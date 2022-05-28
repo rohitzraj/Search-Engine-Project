@@ -1,0 +1,11 @@
+bthere
+2d
+grid
+size
+n
+x
+cell
+lamp
+initially
+turned
+turn

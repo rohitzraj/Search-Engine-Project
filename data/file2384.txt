@@ -1,0 +1,9 @@
+b
+a
+peak
+element
+strictly
+greater
+neighbors
+neighbor
+great

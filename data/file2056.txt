@@ -1,0 +1,14 @@
+byou
+given
+integer
+array
+nums
+the
+value
+defined
+sum
+1
+0
+numslength
+give
+define

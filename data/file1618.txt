@@ -1,0 +1,12 @@
+bgiven
+integer
+array
+nums
+find
+three
+numbers
+whose
+product
+maximum
+return
+number

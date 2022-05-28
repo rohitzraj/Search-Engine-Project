@@ -1,0 +1,12 @@
+bdesign
+algorithm
+accepts
+stream
+integers
+retrieves
+product
+last
+k
+integer
+accept
+retrieve

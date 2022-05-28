@@ -1,0 +1,17 @@
+byou
+given
+string
+even
+length
+split
+two
+halves
+equal
+lengths
+let
+first
+half
+b
+second
+give
+halve

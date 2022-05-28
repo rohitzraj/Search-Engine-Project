@@ -1,0 +1,13 @@
+bgiven
+two
+string
+arrays
+words1
+words2
+return
+number
+strings
+appear
+exactly
+eachxc2xa0of
+array

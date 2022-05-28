@@ -1,0 +1,14 @@
+bgiven
+integer
+array
+size
+n
+find
+elements
+appear
+xe2x8cx8a
+n3
+xe2x8cx8b
+times
+element
+time

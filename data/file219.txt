@@ -1,0 +1,11 @@
+bthere
+n
+people
+40
+types
+hats
+labeled
+1
+type
+hat
+label

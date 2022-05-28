@@ -1,0 +1,13 @@
+bgiven
+string
+representing
+code
+snippet
+implement
+tag
+validator
+parse
+return
+whether
+valid
+represent

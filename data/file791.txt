@@ -1,0 +1,9 @@
+bthe
+appeal
+string
+number
+distinct
+characters
+found
+character
+find

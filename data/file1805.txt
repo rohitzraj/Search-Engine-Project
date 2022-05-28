@@ -1,0 +1,13 @@
+b
+given
+x
+n
+matrix
+board
+containing
+o
+capture
+regions
+4directionallyxc2xa0surrounded
+region
+contain

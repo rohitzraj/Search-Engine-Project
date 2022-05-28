@@ -1,0 +1,11 @@
+bthere
+n
+piles
+stones
+arranged
+row
+the
+ith
+pile
+stone
+arrange

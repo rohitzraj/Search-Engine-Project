@@ -1,0 +1,16 @@
+b
+a
+digit
+string
+good
+digits
+0indexed
+even
+indices
+odd
+prime
+2
+3
+5
+7
+index

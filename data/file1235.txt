@@ -1,0 +1,17 @@
+bthere
+directed
+graph
+n
+colored
+nodes
+edges
+the
+numbered
+0
+1
+node
+edge
+direct
+color
+nod
+number

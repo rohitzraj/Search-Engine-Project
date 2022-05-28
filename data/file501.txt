@@ -1,0 +1,7 @@
+bgiven
+head
+linked
+list
+determine
+cycle
+link

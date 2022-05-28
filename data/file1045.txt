@@ -1,0 +1,10 @@
+bfor
+integer
+array
+nums
+inverse
+pair
+integers
+j
+0
+numslength

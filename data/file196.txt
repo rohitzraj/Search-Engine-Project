@@ -1,0 +1,14 @@
+bgiven
+arrayxc2xa0numsxc2xa0of
+integers
+need
+find
+maximum
+possible
+sum
+elements
+array
+divisible
+three
+integer
+element

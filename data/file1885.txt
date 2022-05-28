@@ -1,0 +1,15 @@
+byou
+given
+n
+x
+binary
+matrix
+grid
+you
+allowed
+change
+one
+0
+1
+give
+allow

@@ -1,0 +1,7 @@
+bgiven
+encoded
+string
+return
+decoded
+encode
+decode

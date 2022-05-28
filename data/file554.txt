@@ -1,0 +1,12 @@
+bgiven
+array
+integers
+nums
+integer
+k
+return
+number
+unique
+kdiff
+pairs
+pair

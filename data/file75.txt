@@ -1,0 +1,14 @@
+byou
+given
+integer
+array
+nums
+two
+players
+playing
+game
+player
+1
+2
+give
+play

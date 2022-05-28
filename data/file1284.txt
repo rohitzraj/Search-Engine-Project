@@ -1,0 +1,14 @@
+ban
+ugly
+number
+positive
+integer
+whose
+prime
+factors
+limited
+2
+3
+5
+factor
+limit

@@ -1,0 +1,11 @@
+bwe
+define
+str
+n
+string
+consists
+concatenated
+times
+time
+consist
+concatenate

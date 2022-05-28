@@ -1,0 +1,13 @@
+bgiven
+two
+strings
+s1
+s2
+return
+true
+contains
+permutation
+false
+otherwise
+string
+contain

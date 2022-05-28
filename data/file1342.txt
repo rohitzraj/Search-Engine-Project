@@ -1,0 +1,11 @@
+b
+given
+nonnegative
+integer
+c
+decide
+whether
+two
+integers
+a2
+b2

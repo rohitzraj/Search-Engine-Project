@@ -1,0 +1,15 @@
+byou
+given
+integer
+array
+coins
+representing
+different
+denominations
+amount
+total
+money
+coin
+denomination
+give
+represent

@@ -1,0 +1,7 @@
+bgiven
+string
+return
+number
+palindromic
+substrings
+substring

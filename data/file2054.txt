@@ -1,0 +1,13 @@
+byou
+given
+string
+text
+you
+split
+k
+substrings
+subtext1
+subtext2
+subtextk
+substring
+give

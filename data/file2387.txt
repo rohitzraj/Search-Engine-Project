@@ -1,0 +1,9 @@
+bon
+8x8
+chessboard
+multiple
+black
+queens
+one
+white
+king

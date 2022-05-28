@@ -1,0 +1,12 @@
+byou
+given
+two
+groups
+points
+first
+group
+size1
+second
+size2
+point
+give

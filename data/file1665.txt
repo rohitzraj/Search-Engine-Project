@@ -1,0 +1,12 @@
+bthere
+stones
+different
+positions
+xaxis
+you
+given
+integer
+array
+stone
+position
+give

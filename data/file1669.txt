@@ -1,0 +1,15 @@
+bthere
+car
+capacity
+empty
+seats
+the
+vehicle
+drives
+east
+ie
+turn
+around
+drive
+west
+seat

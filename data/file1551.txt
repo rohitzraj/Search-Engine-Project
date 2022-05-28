@@ -1,0 +1,7 @@
+breversing
+integer
+means
+reverse
+digits
+mean
+digit

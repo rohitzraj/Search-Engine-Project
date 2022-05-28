@@ -1,0 +1,11 @@
+byou
+given
+0indexed
+integer
+array
+nums
+you
+also
+key
+present
+give

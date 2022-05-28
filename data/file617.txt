@@ -1,0 +1,11 @@
+bgiven
+binary
+array
+nums
+integer
+goal
+return
+number
+nonempty
+subarrays
+sum

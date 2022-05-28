@@ -1,0 +1,15 @@
+bgiven
+n
+points
+2d
+plane
+xi
+yi
+returnxc2xa0the
+widest
+vertical
+area
+two
+inside
+point
+wide

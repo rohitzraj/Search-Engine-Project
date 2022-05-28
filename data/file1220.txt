@@ -1,0 +1,8 @@
+byou
+given
+0indexed
+integer
+array
+nums
+k
+give

@@ -1,0 +1,10 @@
+bgiven
+array
+ofxc2xa0integers
+arr
+integer
+in
+one
+step
+jump
+index

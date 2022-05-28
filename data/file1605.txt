@@ -1,0 +1,17 @@
+bgiven
+integer
+array
+nums
+size
+n
+return
+minimum
+number
+moves
+required
+make
+elements
+equal
+move
+element
+require

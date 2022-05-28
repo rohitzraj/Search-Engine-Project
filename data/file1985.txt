@@ -1,0 +1,17 @@
+bgiven
+sorted
+integer
+array
+nums
+n
+addpatch
+elements
+number
+range
+1
+inclusive
+formed
+sum
+element
+sort
+form

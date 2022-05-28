@@ -1,0 +1,12 @@
+bwe
+given
+hours
+list
+number
+worked
+per
+day
+employee
+hour
+give
+work

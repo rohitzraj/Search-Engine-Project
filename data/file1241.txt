@@ -1,0 +1,15 @@
+bthe
+alternating
+sum
+0indexed
+array
+defined
+elements
+even
+indices
+minus
+odd
+element
+index
+alternate
+define

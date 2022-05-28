@@ -1,0 +1,16 @@
+byou
+given
+0indexed
+integer
+array
+nums
+rearrange
+values
+according
+following
+rules
+value
+rule
+give
+accord
+follow

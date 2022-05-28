@@ -1,0 +1,12 @@
+bgiven
+array
+intervals
+li
+ri
+represent
+interval
+remove
+covered
+another
+list
+cover

@@ -1,0 +1,16 @@
+b
+you
+given
+phone
+number
+string
+consists
+digits
+spaces
+andor
+dashes
+digit
+space
+dash
+give
+consist

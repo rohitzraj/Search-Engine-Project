@@ -1,0 +1,16 @@
+bgiven
+two
+numbers
+hour
+minutes
+return
+smaller
+angle
+degrees
+formed
+minute
+hand
+number
+degree
+form
+small

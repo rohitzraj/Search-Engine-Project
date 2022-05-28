@@ -1,0 +1,16 @@
+bgiven
+string
+return
+number
+different
+nonempty
+palindromic
+subsequences
+since
+answer
+may
+large
+modulo
+109
+7
+subsequence

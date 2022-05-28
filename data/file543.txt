@@ -1,0 +1,17 @@
+bgiven
+four
+integer
+arrays
+nums1
+nums2
+nums3
+nums4
+length
+n
+return
+number
+tuples
+j
+k
+l
+array

@@ -1,0 +1,16 @@
+bthere
+n
+workers
+you
+given
+two
+integer
+arrays
+quality
+wage
+ith
+worker
+minimum
+expectation
+array
+give

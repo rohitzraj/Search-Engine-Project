@@ -1,0 +1,17 @@
+byou
+given
+integer
+array
+nums
+even
+length
+n
+limit
+in
+one
+move
+replace
+another
+1
+inclusive
+give

@@ -1,0 +1,12 @@
+bgiven
+head
+linked
+list
+return
+node
+cycle
+begins
+if
+null
+begin
+link

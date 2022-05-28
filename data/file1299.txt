@@ -1,0 +1,13 @@
+bgiven
+positive
+integer
+num
+write
+function
+returns
+true
+perfect
+square
+else
+false
+return

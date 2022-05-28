@@ -1,0 +1,14 @@
+b
+implement
+myatoi
+string
+function
+converts
+32bit
+signed
+integer
+similar
+cc
+atoi
+convert
+sign

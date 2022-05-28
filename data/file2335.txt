@@ -1,0 +1,15 @@
+bin
+infinite
+binary
+tree
+every
+node
+two
+children
+nodes
+labelled
+row
+order
+child
+nod
+label

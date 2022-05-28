@@ -1,0 +1,12 @@
+bgiven
+integer
+n
+return
+number
+ways
+write
+sum
+consecutive
+positive
+integers
+way

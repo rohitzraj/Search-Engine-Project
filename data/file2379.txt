@@ -1,0 +1,8 @@
+bgiven
+nonnegative
+integer
+x
+xc2xa0compute
+return
+square
+root

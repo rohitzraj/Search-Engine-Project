@@ -1,0 +1,15 @@
+bgiven
+integer
+array
+nums
+return
+true
+exists
+triple
+indices
+j
+k
+if
+false
+index
+exist

@@ -1,0 +1,10 @@
+bgiven
+sentencexc2xa0text
+axc2xa0sentencexc2xa0is
+string
+spaceseparated
+words
+following
+format
+word
+follow

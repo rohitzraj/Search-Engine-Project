@@ -1,0 +1,11 @@
+ban
+array
+squareful
+sum
+every
+pair
+adjacent
+elements
+perfect
+square
+element

@@ -1,0 +1,12 @@
+bgiven
+string
+find
+length
+longest
+substring
+without
+repeating
+characters
+character
+repeat
+long

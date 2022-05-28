@@ -1,0 +1,15 @@
+byou
+given
+2d
+integer
+grid
+size
+x
+n
+in
+one
+operation
+add
+subtract
+element
+give

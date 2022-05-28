@@ -1,0 +1,15 @@
+byou
+given
+integer
+array
+cards
+represents
+value
+ith
+card
+a
+pair
+matching
+give
+represent
+match

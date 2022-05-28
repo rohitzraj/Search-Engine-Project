@@ -1,0 +1,12 @@
+bgiven
+two
+arrays
+integers
+equal
+lengths
+return
+maximum
+value
+array
+integer
+length

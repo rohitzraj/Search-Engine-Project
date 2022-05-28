@@ -1,0 +1,16 @@
+byou
+given
+positive
+integer
+num
+you
+may
+swap
+two
+digits
+parity
+ie
+odd
+even
+digit
+give

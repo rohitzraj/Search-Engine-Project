@@ -1,0 +1,13 @@
+byou
+given
+integer
+array
+deck
+there
+cards
+every
+card
+unique
+the
+ith
+give

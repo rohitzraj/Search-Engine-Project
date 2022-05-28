@@ -1,0 +1,13 @@
+bgiven
+two
+0indexed
+integer
+arrays
+nums1
+nums2
+return
+list
+answer
+size
+2
+array

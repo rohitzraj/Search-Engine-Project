@@ -1,0 +1,12 @@
+bgiven
+integer
+array
+nums
+sorted
+nondecreasing
+order
+return
+squares
+number
+square
+sort

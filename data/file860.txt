@@ -1,0 +1,13 @@
+bwrite
+function
+reverses
+string
+the
+input
+given
+array
+characters
+revers
+character
+reverse
+give

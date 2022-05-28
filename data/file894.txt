@@ -1,0 +1,9 @@
+b
+given
+string
+find
+longest
+palindromic
+subsequence
+length
+long

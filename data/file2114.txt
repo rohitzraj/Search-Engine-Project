@@ -1,0 +1,11 @@
+b
+a
+pangram
+sentence
+every
+letter
+english
+alphabet
+appears
+least
+appear

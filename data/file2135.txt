@@ -1,0 +1,12 @@
+byou
+given
+string
+consisting
+lowercase
+english
+letters
+integer
+k
+letter
+give
+consist

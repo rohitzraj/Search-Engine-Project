@@ -1,0 +1,17 @@
+bgiven
+array
+nonnegative
+integers
+arr
+initially
+positioned
+startxc2xa0index
+when
+index
+jumpxc2xa0to
+check
+reach
+value
+0
+integer
+position

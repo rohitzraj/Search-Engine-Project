@@ -1,0 +1,12 @@
+byou
+given
+integer
+array
+nums
+the
+adjacent
+integers
+perform
+float
+division
+give

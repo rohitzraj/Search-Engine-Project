@@ -1,0 +1,15 @@
+bgiven
+integer
+array
+nums
+k
+return
+length
+shortest
+nonempty
+subarray
+sum
+least
+if
+1
+short

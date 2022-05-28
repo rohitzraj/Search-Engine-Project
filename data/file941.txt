@@ -1,0 +1,15 @@
+byou
+given
+string
+we
+want
+partition
+many
+parts
+possible
+letter
+appears
+one
+part
+give
+appear

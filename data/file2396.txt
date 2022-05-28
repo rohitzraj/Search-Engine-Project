@@ -1,0 +1,16 @@
+bgiven
+x
+n
+matrix
+mat
+integer
+threshold
+return
+maximum
+sidelength
+square
+sum
+less
+equal
+0
+le

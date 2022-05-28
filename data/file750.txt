@@ -1,0 +1,15 @@
+bthe
+minimum
+absolute
+difference
+array
+defined
+value
+j
+0
+alength
+if
+elements
+1
+element
+define

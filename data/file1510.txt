@@ -1,0 +1,16 @@
+byou
+given
+nums
+array
+positive
+integers
+size
+2
+n
+you
+must
+perform
+operations
+integer
+operation
+give

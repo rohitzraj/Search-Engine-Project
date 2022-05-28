@@ -1,0 +1,12 @@
+bgiven
+two
+string
+arrays
+word1
+word2
+return
+true
+represent
+false
+otherwise
+array

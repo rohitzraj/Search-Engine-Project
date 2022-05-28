@@ -1,0 +1,14 @@
+b
+a
+permutation
+perm
+n
+1
+integers
+range
+0
+represented
+string
+length
+integer
+represent

@@ -1,0 +1,8 @@
+bgiven
+string
+in
+one
+step
+insert
+character
+index

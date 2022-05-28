@@ -1,0 +1,12 @@
+byou
+given
+integer
+array
+nums
+the
+unique
+elements
+appear
+exactly
+element
+give

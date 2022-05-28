@@ -1,0 +1,13 @@
+byou
+given
+string
+word
+consists
+digits
+lowercase
+english
+letters
+digit
+letter
+give
+consist

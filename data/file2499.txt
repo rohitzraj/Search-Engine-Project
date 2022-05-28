@@ -1,0 +1,17 @@
+bgiven
+roots
+two
+binary
+trees
+root
+subroot
+return
+true
+subtree
+structure
+node
+values
+false
+otherwise
+tree
+value

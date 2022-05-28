@@ -1,0 +1,15 @@
+bthere
+several
+stones
+arranged
+row
+stone
+associated
+value
+integer
+given
+array
+stonevalue
+arrange
+associate
+give

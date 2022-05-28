@@ -1,0 +1,14 @@
+byou
+given
+two
+positive
+integers
+left
+right
+calculate
+product
+inclusive
+range
+integer
+give
+leave

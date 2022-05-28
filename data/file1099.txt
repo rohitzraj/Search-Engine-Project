@@ -1,0 +1,16 @@
+bgiven
+array
+strings
+words
+return
+smallest
+string
+contains
+substring
+if
+multiple
+valid
+length
+word
+contain
+small

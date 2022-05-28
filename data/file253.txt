@@ -1,0 +1,6 @@
+byou
+given
+integer
+array
+arr
+give

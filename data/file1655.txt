@@ -1,0 +1,11 @@
+byou
+initial
+power
+score
+0
+bag
+tokens
+value
+ith
+token
+0indexed

@@ -1,0 +1,16 @@
+bgiven
+array
+integers
+nums
+positive
+integer
+k
+check
+whether
+possible
+divide
+sets
+consecutive
+numbers
+set
+number

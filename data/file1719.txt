@@ -1,0 +1,17 @@
+bwe
+array
+integers
+nums
+requests
+starti
+endi
+the
+ith
+request
+asks
+sum
+1
+both
+0indexed
+integer
+ask

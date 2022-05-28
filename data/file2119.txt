@@ -1,0 +1,8 @@
+b
+a
+string
+good
+repeated
+characters
+character
+repeat

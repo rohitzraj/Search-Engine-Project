@@ -1,0 +1,13 @@
+bgiven
+n
+x
+array
+integers
+matrix
+return
+minimum
+sum
+falling
+path
+integer
+fall

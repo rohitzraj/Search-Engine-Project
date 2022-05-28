@@ -1,0 +1,6 @@
+byou
+given
+x
+n
+grid
+give

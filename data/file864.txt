@@ -1,0 +1,11 @@
+bgiven
+string
+find
+first
+nonrepeating
+character
+return
+index
+if
+exist
+1

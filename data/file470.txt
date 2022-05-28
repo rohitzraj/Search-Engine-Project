@@ -1,0 +1,17 @@
+byou
+given
+0indexed
+x
+n
+binary
+matrix
+land
+0
+represents
+hectare
+forested
+1
+farmland
+give
+represent
+forest

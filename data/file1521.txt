@@ -1,0 +1,12 @@
+bgiven
+integer
+n
+base
+10
+k
+return
+sum
+digits
+converting
+digit
+convert

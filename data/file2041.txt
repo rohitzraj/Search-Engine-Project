@@ -1,0 +1,11 @@
+bthere
+broken
+calculator
+integer
+startvalue
+display
+initially
+in
+one
+operation
+break

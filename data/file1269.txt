@@ -1,0 +1,14 @@
+byou
+given
+integer
+array
+prices
+representing
+daily
+price
+history
+stock
+ith
+day
+give
+represent

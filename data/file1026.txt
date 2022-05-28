@@ -1,0 +1,8 @@
+bwe
+define
+string
+infinite
+wraparound
+abcdefghijklmnopqrstuvwxyz
+look
+like

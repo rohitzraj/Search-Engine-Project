@@ -1,0 +1,14 @@
+bgiven
+string
+dictionary
+strings
+worddict
+return
+true
+segmented
+spaceseparated
+sequence
+one
+words
+word
+segment

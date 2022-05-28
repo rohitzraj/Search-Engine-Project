@@ -1,0 +1,11 @@
+bgiven
+integer
+n
+break
+sum
+k
+positive
+integers
+2
+maximize
+product

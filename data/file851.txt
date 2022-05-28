@@ -1,0 +1,5 @@
+bgiven
+pattern
+string
+find
+sxc2xa0follows

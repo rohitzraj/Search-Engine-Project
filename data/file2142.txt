@@ -1,0 +1,11 @@
+bgiven
+array
+strings
+patterns
+string
+word
+return
+number
+exist
+substring
+pattern

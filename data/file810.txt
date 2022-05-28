@@ -1,0 +1,14 @@
+bgiven
+two
+nonnegative
+integers
+num1
+num2
+represented
+strings
+return
+product
+also
+string
+integer
+represent

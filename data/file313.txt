@@ -1,0 +1,16 @@
+balice
+bob
+play
+game
+piles
+stones
+there
+even
+number
+arranged
+row
+pile
+positive
+integer
+stone
+arrange

@@ -1,0 +1,11 @@
+bgiven
+x
+n
+binary
+matrix
+mat
+return
+number
+submatrices
+ones
+one

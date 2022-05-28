@@ -1,0 +1,15 @@
+bgiven
+positive
+integer
+k
+need
+find
+length
+smallest
+n
+divisible
+contains
+digit
+1
+contain
+small

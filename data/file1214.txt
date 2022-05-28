@@ -1,0 +1,16 @@
+byou
+given
+integer
+n
+a
+0indexed
+array
+nums
+length
+1
+generated
+following
+way
+give
+generate
+follow

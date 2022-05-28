@@ -1,0 +1,16 @@
+byou
+given
+two
+integer
+arrays
+length
+nums1
+nums2
+in
+one
+operation
+allowed
+swap
+array
+give
+allow

@@ -1,0 +1,10 @@
+bgiven
+integer
+n
+return
+least
+number
+perfect
+square
+numbers
+sum

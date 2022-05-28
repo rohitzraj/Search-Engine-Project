@@ -1,0 +1,14 @@
+bgiven
+array
+nums
+obtain
+subsequence
+whose
+sum
+elements
+strictly
+greater
+nonxc2xa0included
+subsequencexc2xa0
+element
+great

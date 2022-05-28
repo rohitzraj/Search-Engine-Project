@@ -1,0 +1,16 @@
+bgiven
+integer
+n
+return
+number
+strings
+length
+consist
+vowels
+e
+u
+lexicographically
+sorted
+string
+vowel
+sort

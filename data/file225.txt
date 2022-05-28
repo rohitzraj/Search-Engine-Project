@@ -1,0 +1,13 @@
+bgiven
+array
+houses
+location
+ith
+house
+along
+street
+integer
+k
+allocate
+mailboxes
+mailbox

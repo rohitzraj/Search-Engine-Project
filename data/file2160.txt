@@ -1,0 +1,13 @@
+b
+you
+given
+string
+consisting
+n
+characters
+either
+x
+o
+character
+give
+consist

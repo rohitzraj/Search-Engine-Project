@@ -1,0 +1,9 @@
+b
+a
+binary
+matrix
+elements
+either
+0
+1
+element

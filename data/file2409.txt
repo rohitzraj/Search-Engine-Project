@@ -1,0 +1,13 @@
+bgiven
+n
+x
+binary
+grid
+one
+step
+choose
+two
+adjacent
+rows
+swap
+row

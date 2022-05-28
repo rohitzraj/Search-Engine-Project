@@ -1,0 +1,17 @@
+bgiven
+integer
+n
+return
+largest
+palindromic
+represented
+product
+two
+ndigits
+integers
+since
+answer
+large
+modulo
+1337
+represent

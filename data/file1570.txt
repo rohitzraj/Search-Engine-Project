@@ -1,0 +1,10 @@
+bgiven
+integer
+array
+nums
+return
+triplets
+j
+k
+0
+triplet

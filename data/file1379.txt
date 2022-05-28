@@ -1,0 +1,14 @@
+byou
+given
+0indexed
+array
+positive
+integers
+w
+describes
+weight
+ith
+index
+integer
+give
+describe

@@ -1,0 +1,12 @@
+bgiven
+integer
+n
+return
+numbers
+range
+1
+sorted
+lexicographical
+order
+number
+sort

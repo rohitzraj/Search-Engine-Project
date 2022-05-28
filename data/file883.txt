@@ -1,0 +1,14 @@
+bgiven
+string
+check
+constructed
+taking
+substring
+appending
+multiple
+copies
+together
+copy
+construct
+take
+append

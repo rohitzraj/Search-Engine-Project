@@ -1,0 +1,17 @@
+bfor
+binary
+tree
+t
+define
+flip
+operation
+follows
+choose
+node
+swap
+left
+right
+child
+subtrees
+follow
+leave

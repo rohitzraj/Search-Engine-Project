@@ -1,0 +1,9 @@
+bthe
+frequency
+element
+number
+times
+occurs
+array
+time
+occur

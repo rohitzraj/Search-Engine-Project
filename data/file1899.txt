@@ -1,0 +1,14 @@
+bon
+2d
+plane
+place
+n
+stones
+integer
+coordinate
+points
+each
+point
+may
+one
+stone

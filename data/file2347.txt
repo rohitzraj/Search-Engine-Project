@@ -1,0 +1,12 @@
+bgiven
+binary
+tree
+root
+integer
+target
+delete
+leaf
+nodes
+value
+node
+nod

@@ -1,0 +1,17 @@
+bgiven
+integer
+array
+nums
+two
+integers
+firstlen
+secondlen
+return
+maximum
+sum
+elements
+nonoverlapping
+subarrays
+lengths
+element
+length

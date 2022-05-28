@@ -1,0 +1,10 @@
+bgiven
+x
+n
+matrix
+return
+new
+answer
+row
+col
+rank

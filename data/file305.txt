@@ -1,0 +1,8 @@
+byou
+given
+x
+n
+binary
+matrix
+grid
+give

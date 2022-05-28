@@ -1,0 +1,11 @@
+bgiven
+integer
+array
+nums
+return
+maximum
+result
+xor
+j
+0
+n

@@ -1,0 +1,16 @@
+bgiven
+integer
+array
+nums
+goal
+make
+elements
+equal
+to
+complete
+one
+operation
+follow
+steps
+element
+step

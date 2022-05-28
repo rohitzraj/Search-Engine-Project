@@ -1,0 +1,8 @@
+bgiven
+positive
+integer
+n
+xc2xa0you
+apply
+one
+followingxc2xa0operations

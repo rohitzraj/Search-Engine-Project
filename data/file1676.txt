@@ -1,0 +1,5 @@
+b
+a
+transaction
+possibly
+invalid

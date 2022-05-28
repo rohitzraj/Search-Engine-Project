@@ -1,0 +1,10 @@
+bthe
+countandsay
+sequence
+digit
+strings
+defined
+recursive
+formula
+string
+define

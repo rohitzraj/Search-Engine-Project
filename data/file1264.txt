@@ -1,0 +1,15 @@
+ban
+original
+string
+consisting
+lowercase
+english
+letters
+encoded
+following
+steps
+letter
+step
+consist
+encode
+follow

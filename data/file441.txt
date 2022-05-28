@@ -1,0 +1,10 @@
+b
+a
+substring
+contiguous
+nonempty
+sequence
+characters
+within
+string
+character

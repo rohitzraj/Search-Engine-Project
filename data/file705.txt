@@ -1,0 +1,9 @@
+bgiven
+array
+integers
+arr
+even
+length
+n
+integer
+k

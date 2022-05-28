@@ -1,0 +1,11 @@
+bgiven
+string
+return
+maximum
+number
+ocurrences
+substring
+following
+rules
+rule
+follow

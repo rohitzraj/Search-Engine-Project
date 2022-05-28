@@ -1,0 +1,13 @@
+bgiven
+array
+integers
+cost
+integer
+target
+return
+maximum
+paint
+following
+rules
+rule
+follow

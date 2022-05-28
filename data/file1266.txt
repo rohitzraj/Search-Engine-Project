@@ -1,0 +1,16 @@
+b
+you
+given
+0indexed
+string
+street
+each
+character
+either
+h
+representing
+house
+empty
+space
+give
+represent

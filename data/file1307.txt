@@ -1,0 +1,15 @@
+bgiven
+integer
+array
+nums
+design
+algorithm
+randomly
+shuffle
+all
+permutations
+equally
+likely
+result
+shuffling
+permutation

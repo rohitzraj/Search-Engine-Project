@@ -1,0 +1,10 @@
+bthere
+8
+prison
+cells
+row
+cell
+either
+occupied
+vacant
+occupy

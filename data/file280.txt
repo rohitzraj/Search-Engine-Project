@@ -1,0 +1,12 @@
+b
+a
+valid
+encoding
+array
+words
+reference
+string
+indices
+word
+index
+encode

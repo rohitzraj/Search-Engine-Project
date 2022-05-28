@@ -1,0 +1,14 @@
+bgiven
+integer
+array
+nums
+return
+greatest
+common
+divisor
+smallest
+number
+largest
+great
+small
+large

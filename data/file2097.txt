@@ -1,0 +1,17 @@
+b
+you
+given
+string
+consisting
+characters
+0
+1
+in
+one
+operation
+change
+vice
+versa
+character
+give
+consist

@@ -1,0 +1,12 @@
+bgiven
+two
+integers
+representing
+numerator
+denominator
+fraction
+return
+string
+format
+integer
+represent

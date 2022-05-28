@@ -1,0 +1,15 @@
+bgiven
+string
+return
+length
+longest
+substring
+two
+equal
+characters
+excluding
+if
+1
+character
+exclude
+long

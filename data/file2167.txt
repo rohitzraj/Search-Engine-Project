@@ -1,0 +1,15 @@
+byou
+given
+x
+n
+binary
+matrix
+grid
+cell
+either
+0
+empty
+1
+occupied
+give
+occupy

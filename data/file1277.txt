@@ -1,0 +1,15 @@
+byou
+given
+0indexed
+binary
+string
+represents
+types
+buildings
+along
+street
+type
+building
+give
+represent
+build

@@ -1,0 +1,16 @@
+byou
+given
+x
+n
+binary
+grid
+1
+represents
+brick
+0
+empty
+space
+a
+stable
+give
+represent

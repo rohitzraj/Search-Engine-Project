@@ -1,0 +1,17 @@
+bgiven
+integer
+n
+return
+list
+simplified
+fractions
+0
+1
+exclusive
+denominator
+lessthanorequalto
+you
+answer
+order
+fraction
+simplify

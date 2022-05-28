@@ -1,0 +1,9 @@
+bdesign
+data
+structure
+find
+frequency
+given
+value
+subarray
+give

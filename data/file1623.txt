@@ -1,0 +1,10 @@
+bgiven
+array
+strings
+words
+integer
+k
+return
+frequent
+string
+word

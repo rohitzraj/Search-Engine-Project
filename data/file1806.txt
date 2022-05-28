@@ -1,0 +1,7 @@
+bgiven
+reference
+node
+connected
+undirected
+graph
+connect

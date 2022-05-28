@@ -1,0 +1,17 @@
+byou
+given
+array
+positive
+integers
+arr
+perform
+operations
+possibly
+none
+satisfies
+conditions
+integer
+operation
+condition
+give
+satisfy

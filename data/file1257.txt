@@ -1,0 +1,17 @@
+bthere
+n
+rooms
+need
+visit
+labeled
+0
+1
+each
+day
+starting
+you
+go
+one
+room
+label
+start

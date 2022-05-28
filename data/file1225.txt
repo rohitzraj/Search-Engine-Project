@@ -1,0 +1,13 @@
+bgiven
+string
+return
+true
+possible
+split
+three
+nonempty
+palindromic
+substrings
+otherwise
+falsexe2x80x8bxe2x80x8bxe2x80x8bxe2x80x8bxe2x80x8b
+substring

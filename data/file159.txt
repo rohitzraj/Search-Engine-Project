@@ -1,0 +1,11 @@
+bgiven
+array
+nums
+integers
+return
+length
+longest
+arithmetic
+subsequence
+integer
+long

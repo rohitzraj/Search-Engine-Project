@@ -1,0 +1,11 @@
+bgiven
+string
+youxc2xa0can
+transform
+every
+letter
+individually
+lowercase
+uppercase
+create
+another

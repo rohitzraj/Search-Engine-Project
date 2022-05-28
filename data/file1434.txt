@@ -1,0 +1,11 @@
+breturn
+number
+permutations
+1
+n
+prime
+numbers
+indices
+1indexed
+permutation
+index

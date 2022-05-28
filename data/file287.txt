@@ -1,0 +1,6 @@
+bdesign
+implementation
+circular
+doubleended
+queue
+deque

@@ -1,0 +1,14 @@
+byou
+given
+integer
+array
+nums
+length
+n
+permutation
+numbers
+range
+0
+1
+number
+give

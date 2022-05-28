@@ -1,0 +1,15 @@
+bgiven
+integer
+array
+nums
+need
+find
+one
+continuous
+subarray
+sort
+ascending
+order
+whole
+sorted
+ascend

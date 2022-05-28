@@ -1,0 +1,16 @@
+bgiven
+coordinates
+four
+points
+2d
+space
+p1
+p2
+p3
+p4
+return
+true
+construct
+square
+coordinate
+point

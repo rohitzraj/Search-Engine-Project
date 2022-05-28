@@ -1,0 +1,17 @@
+byou
+given
+array
+nonnegative
+integers
+nums
+integer
+k
+in
+one
+operation
+may
+choose
+element
+increment
+1
+give

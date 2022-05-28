@@ -1,0 +1,17 @@
+byou
+given
+array
+strings
+nums
+integer
+k
+each
+string
+represents
+without
+leading
+zeros
+zero
+give
+represent
+lead

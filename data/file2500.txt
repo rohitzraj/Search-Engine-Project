@@ -1,0 +1,15 @@
+bgiven
+root
+binary
+tree
+construct
+string
+consisting
+parenthesis
+integers
+preorder
+traversal
+way
+return
+integer
+consist

@@ -1,0 +1,10 @@
+b
+given
+string
+containing
+characters
+determine
+input
+valid
+character
+contain

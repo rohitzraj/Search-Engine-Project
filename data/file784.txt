@@ -1,0 +1,11 @@
+byou
+given
+integer
+array
+nums
+consisting
+2
+n
+integers
+give
+consist

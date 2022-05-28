@@ -1,0 +1,15 @@
+bgiven
+head
+linked
+list
+repeatedly
+delete
+consecutive
+sequences
+nodes
+sum
+0
+sequence
+node
+link
+nod

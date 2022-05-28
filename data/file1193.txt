@@ -1,0 +1,16 @@
+bgiven
+wooden
+stick
+length
+n
+units
+the
+labelled
+0
+for
+example
+6
+follows
+unit
+label
+follow

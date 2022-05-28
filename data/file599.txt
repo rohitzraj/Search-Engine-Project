@@ -1,0 +1,14 @@
+balice
+number
+cards
+wants
+rearrange
+groups
+group
+size
+groupsize
+consists
+consecutive
+card
+want
+consist

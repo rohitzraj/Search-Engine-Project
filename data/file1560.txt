@@ -1,0 +1,15 @@
+bgiven
+positive
+integer
+num
+return
+number
+integers
+less
+equal
+whose
+digit
+sums
+even
+le
+sum

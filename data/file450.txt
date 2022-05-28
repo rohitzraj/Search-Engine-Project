@@ -1,0 +1,14 @@
+ban
+n
+x
+matrix
+valid
+every
+row
+column
+contains
+integers
+1
+inclusive
+integer
+contain

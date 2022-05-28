@@ -1,0 +1,13 @@
+bgiven
+0indexed
+integer
+array
+nums
+length
+n
+k
+return
+number
+pairs
+j
+pair

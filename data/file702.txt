@@ -1,0 +1,16 @@
+bgiven
+array
+strings
+names
+size
+n
+you
+create
+folders
+file
+system
+ith
+minute
+folder
+name
+string

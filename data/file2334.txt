@@ -1,0 +1,15 @@
+bgiven
+root
+binary
+tree
+integer
+limit
+delete
+insufficient
+nodes
+simultaneously
+return
+resulting
+node
+nod
+result

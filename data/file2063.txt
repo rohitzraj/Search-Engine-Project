@@ -1,0 +1,10 @@
+b
+balanced
+strings
+equal
+quantity
+l
+r
+characters
+string
+character

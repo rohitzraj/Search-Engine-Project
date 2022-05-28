@@ -1,0 +1,12 @@
+bin
+town
+n
+people
+labeled
+1
+there
+rumor
+one
+secretly
+judge
+label

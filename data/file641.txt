@@ -1,0 +1,7 @@
+byou
+given
+x
+n
+binary
+matrix
+give

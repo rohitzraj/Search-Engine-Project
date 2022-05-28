@@ -1,0 +1,14 @@
+byou
+given
+0indexed
+string
+array
+words
+consists
+lowercase
+english
+letters
+word
+letter
+give
+consist

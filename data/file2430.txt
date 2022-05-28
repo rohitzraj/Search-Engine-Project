@@ -1,0 +1,17 @@
+b
+a
+peak
+element
+2d
+grid
+strictly
+greater
+adjacent
+neighbors
+left
+right
+top
+bottom
+neighbor
+leave
+great

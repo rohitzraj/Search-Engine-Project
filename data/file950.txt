@@ -1,0 +1,11 @@
+bgiven
+two
+strings
+goal
+return
+true
+become
+number
+shifts
+string
+shift

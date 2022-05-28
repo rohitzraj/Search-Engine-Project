@@ -1,0 +1,16 @@
+b
+a
+sequence
+special
+consists
+positive
+number
+0s
+followed
+1s
+2s
+0
+1
+2
+consist
+follow

@@ -1,0 +1,7 @@
+byou
+given
+integer
+array
+nums
+goal
+give

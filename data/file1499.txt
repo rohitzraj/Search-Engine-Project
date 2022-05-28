@@ -1,0 +1,12 @@
+byou
+given
+integer
+n
+number
+teams
+tournament
+strange
+rules
+team
+rule
+give

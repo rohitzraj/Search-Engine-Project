@@ -1,0 +1,14 @@
+byou
+given
+integer
+array
+matches
+winneri
+loseri
+indicates
+player
+defeated
+match
+give
+indicate
+defeat

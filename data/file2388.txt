@@ -1,0 +1,12 @@
+bgiven
+following
+details
+matrix
+n
+columns
+2
+rows
+detail
+column
+row
+follow

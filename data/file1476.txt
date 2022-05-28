@@ -1,0 +1,6 @@
+byou
+given
+integer
+n
+start
+give

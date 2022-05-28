@@ -1,0 +1,16 @@
+bgiven
+characters
+array
+letters
+sorted
+nondecreasing
+order
+character
+target
+return
+smallest
+larger
+letter
+sort
+small
+large

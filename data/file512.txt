@@ -1,0 +1,15 @@
+bgiven
+integer
+array
+nums
+return
+true
+value
+appears
+least
+twice
+false
+every
+element
+distinct
+appear

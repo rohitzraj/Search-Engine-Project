@@ -1,0 +1,14 @@
+bthe
+hamming
+distance
+two
+integers
+number
+positions
+corresponding
+bits
+different
+integer
+position
+bit
+correspond

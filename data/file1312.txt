@@ -1,0 +1,17 @@
+bgiven
+integer
+num
+return
+string
+representing
+hexadecimal
+representation
+for
+negative
+integers
+twoxe2x80x99s
+complement
+method
+used
+represent
+use

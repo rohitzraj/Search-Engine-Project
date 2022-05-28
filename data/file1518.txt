@@ -1,0 +1,6 @@
+bthere
+function
+signfunc
+x
+returns
+return

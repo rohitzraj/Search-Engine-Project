@@ -1,0 +1,12 @@
+b
+you
+given
+two
+strings
+stamp
+target
+initially
+string
+length
+targetlength
+give

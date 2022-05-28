@@ -1,0 +1,13 @@
+bgiven
+root
+node
+reference
+bst
+key
+delete
+given
+return
+possibly
+updated
+give
+update

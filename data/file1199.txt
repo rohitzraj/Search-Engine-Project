@@ -1,0 +1,15 @@
+balice
+n
+balloons
+arranged
+rope
+you
+given
+0indexed
+string
+colors
+color
+ith
+balloon
+arrange
+give

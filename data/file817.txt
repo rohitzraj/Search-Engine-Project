@@ -1,0 +1,16 @@
+b
+given
+string
+path
+absolute
+starting
+slash
+file
+directory
+unixstyle
+system
+convert
+simplified
+canonical
+start
+simplify

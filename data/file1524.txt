@@ -1,0 +1,11 @@
+bthe
+xor
+total
+array
+defined
+bitwise
+elements
+0
+empty
+element
+define

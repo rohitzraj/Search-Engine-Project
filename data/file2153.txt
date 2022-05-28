@@ -1,0 +1,14 @@
+byou
+given
+n
+x
+integer
+matrix
+you
+following
+operation
+number
+times
+time
+give
+follow

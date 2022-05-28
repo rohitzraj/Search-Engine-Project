@@ -1,0 +1,6 @@
+bgiven
+array
+integers
+arr
+integer
+k

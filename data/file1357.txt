@@ -1,0 +1,17 @@
+bgiven
+four
+integers
+sx
+sy
+tx
+ty
+return
+true
+possible
+convert
+point
+operations
+false
+otherwise
+integer
+operation

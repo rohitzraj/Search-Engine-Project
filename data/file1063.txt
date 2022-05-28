@@ -1,0 +1,17 @@
+byou
+given
+n
+x
+grid
+representing
+field
+cherries
+cell
+one
+three
+possible
+integers
+cherry
+integer
+give
+represent

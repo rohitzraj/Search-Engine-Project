@@ -1,0 +1,6 @@
+ban
+array
+nums
+length
+n
+beautiful

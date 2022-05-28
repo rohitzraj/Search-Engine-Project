@@ -1,0 +1,15 @@
+bgiven
+integer
+array
+nums
+two
+integers
+k
+p
+return
+number
+distinct
+subarrays
+elements
+divisible
+element

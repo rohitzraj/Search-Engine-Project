@@ -1,0 +1,16 @@
+bgiven
+string
+num
+representing
+nonnegative
+integer
+k
+return
+smallest
+possible
+removing
+digits
+digit
+represent
+remove
+small

@@ -1,0 +1,14 @@
+byou
+given
+two
+strings
+word1
+word2
+you
+want
+construct
+string
+following
+manner
+give
+follow

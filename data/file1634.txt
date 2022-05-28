@@ -1,0 +1,16 @@
+bthere
+n
+persons
+social
+media
+website
+you
+given
+integer
+array
+ages
+age
+ith
+person
+medium
+give

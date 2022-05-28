@@ -1,0 +1,14 @@
+byou
+given
+two
+positive
+integers
+n
+k
+a
+factor
+integer
+defined
+0
+give
+define

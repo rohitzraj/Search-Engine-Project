@@ -1,0 +1,10 @@
+byou
+given
+string
+num
+representing
+large
+integer
+k
+give
+represent

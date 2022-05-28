@@ -1,0 +1,14 @@
+bgiven
+2d
+grid
+size
+x
+nxc2xa0and
+integer
+k
+you
+need
+shift
+gridxc2xa0k
+times
+time

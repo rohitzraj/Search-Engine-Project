@@ -1,0 +1,13 @@
+bgiven
+string
+integer
+k
+reverse
+first
+characters
+every
+2k
+counting
+start
+character
+count

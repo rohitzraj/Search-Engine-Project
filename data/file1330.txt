@@ -1,0 +1,15 @@
+b
+a
+perfect
+number
+positive
+integer
+equal
+sum
+divisors
+excluding
+divisor
+x
+divide
+evenly
+exclude

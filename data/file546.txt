@@ -1,0 +1,15 @@
+bthe
+median
+middle
+value
+ordered
+integer
+list
+if
+size
+even
+so
+mean
+two
+values
+order

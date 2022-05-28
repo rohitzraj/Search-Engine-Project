@@ -1,0 +1,17 @@
+byou
+given
+array
+books
+thicknessi
+heighti
+indicates
+thickness
+height
+ith
+book
+you
+also
+integer
+shelfwidth
+give
+indicate

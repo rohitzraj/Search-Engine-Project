@@ -1,0 +1,10 @@
+byou
+given
+array
+strings
+words
+string
+chars
+word
+char
+give

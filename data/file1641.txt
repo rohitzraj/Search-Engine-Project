@@ -1,0 +1,16 @@
+byou
+given
+integer
+n
+we
+reorder
+digits
+order
+including
+original
+leading
+digit
+zero
+give
+include
+lead

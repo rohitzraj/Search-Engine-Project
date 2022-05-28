@@ -1,0 +1,14 @@
+bgiven
+list
+dominoes
+b
+equivalent
+j
+c
+either
+one
+domino
+rotated
+equal
+another
+rotate

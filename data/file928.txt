@@ -1,0 +1,14 @@
+b
+give
+binary
+string
+return
+number
+nonempty
+substrings
+0
+1
+grouped
+consecutively
+substring
+group

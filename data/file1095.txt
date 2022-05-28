@@ -1,0 +1,17 @@
+b
+a
+binary
+string
+monotone
+increasing
+consists
+number
+0
+possibly
+none
+followed
+1
+also
+increase
+consist
+follow

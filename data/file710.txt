@@ -1,0 +1,14 @@
+byou
+given
+string
+an
+awesome
+substring
+nonempty
+make
+number
+swaps
+order
+palindrome
+swap
+give

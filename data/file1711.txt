@@ -1,0 +1,15 @@
+bgiven
+array
+integersxc2xa0arrxc2xa0and
+integer
+kxc2xa0find
+least
+number
+unique
+integersxc2xa0after
+removing
+exactly
+k
+elements
+element
+remove

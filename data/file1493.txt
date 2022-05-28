@@ -1,0 +1,14 @@
+bwrite
+api
+generates
+fancy
+sequences
+using
+append
+addall
+multall
+operations
+sequence
+operation
+generate
+use

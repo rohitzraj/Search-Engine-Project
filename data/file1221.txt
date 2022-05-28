@@ -1,0 +1,13 @@
+byou
+given
+integer
+array
+jobs
+amount
+time
+takes
+complete
+ith
+job
+take
+give

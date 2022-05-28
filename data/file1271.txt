@@ -1,0 +1,11 @@
+byou
+given
+0indexed
+2d
+integer
+array
+questions
+pointsi
+brainpoweri
+question
+give

@@ -1,0 +1,10 @@
+bgiven
+x
+n
+matrix
+distinct
+numbers
+return
+lucky
+order
+number

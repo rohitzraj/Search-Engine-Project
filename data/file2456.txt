@@ -1,0 +1,11 @@
+bgiven
+root
+binary
+tree
+check
+whether
+mirror
+ie
+symmetric
+around
+center

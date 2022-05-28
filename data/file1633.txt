@@ -1,0 +1,9 @@
+bgiven
+string
+array
+strings
+words
+return
+number
+subsequence
+word
