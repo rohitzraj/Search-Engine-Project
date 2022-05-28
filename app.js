@@ -13,9 +13,14 @@ const app = express();
 var tokenizer = new natural.WordTokenizer();
 var tokenizer1 = new natural.SentenceTokenizer();
 app.use(express.json());
-app.listen(3000);
+
 app.set("view engine","ejs");
 app.use(express.static('public'));
+
+const PORT = process.env.PORT || 3000
+
+app.listen(PORT);
+
 app.get("/", (req,res)=>{
     res.render("index");
 });
